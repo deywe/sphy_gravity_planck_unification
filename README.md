@@ -1,7 +1,4 @@
-```python
-readme_content = """# SPHY Engine: 3D Unified Phase-Space Geometric Viewer
-
-## 🛰️ System Overview
+# 🛰️ System Overview
 The **SPHY 3D Viewer** (`sphy_3d_viewer.py`) is the three-dimensional geometric rendering core of the symbiotic scale-invariance matrix engine. Built on top of the `py5` library (Processing for Python), this ecosystem visualizes and audits in real time the continuous topological transition between two of the most extreme frontiers in physics: the **Atomic Nucleus** (soliton quantum mechanics) and the **Black Hole** (the macroscopic boundary of general relativity).
 
 This interactive viewer processes the structural mesh streamed from the cryptographic blockchain ledger (`.parquet` / `.csv`), reconstructing Faraday Tensor perturbations and gravitational metric distortions ($g_{00}$) within a unifed 3D phase-space viewport.
