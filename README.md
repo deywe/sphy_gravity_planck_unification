@@ -20,7 +20,7 @@ The viewer operates by symmetrically splitting the total frame dataset into two 
 ### 2. Second Half (The Final 50% of Frames) — The Event Horizon
 * **Domain Horizon:** `MACRO (BLACK HOLE)`
 * **Mechanics:** Maintains strictly the **same structural and mathematical field equations**, proving scale invariance under general relativity conditions of extreme gravity (the dreaded Black Hole).
-* **Core Components:** The system exponentially scales up the action of Planck nodes to compute the Schwarzschild Radius of the cosmic soliton. This visually demonstrates that the ratio between deformed metric energy and original quantum energy remains mathematically mirrored and invariant ($K_{\\text{Factor}}$ symmetry).
+* **Core Components:** The system exponentially scales up the action of Planck nodes to compute the Schwarzschild Radius of the cosmic soliton. This visually demonstrates that the ratio between deformed metric energy and original quantum energy remains mathematically mirrored and invariant ($K_{\text{Factor}}$ symmetry).
 
 Every single constant used ($h$, $c$, $G$, $\phi$) is **universal, transparent, and completely auditable** by any physicist or cryptographer through the integrated 2D HUD dashboard overlay.
 
